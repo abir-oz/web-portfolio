@@ -68,7 +68,9 @@ section{
     background-repeat:no-repeat;
     background-position:left;
 }
-
+.experience-area .experience-title{
+    margin-left:80px;
+}
 .single-experience{
     box-shadow: 10px 10px 40px gray;
     border-radius:5px;
